@@ -13,3 +13,8 @@ If you find FinCon useful, we would appreciate it if you consider citing our wor
   year={2024}
 }
 ```
+
+## Code
+We apologize for the delay in open-sourcing this project.<br>
+Our data agent currently relies on several commercial APIs, which makes it challenging to release the full system and associated data directly.<br>
+We are actively working on anonymizing and restructuring the components, and plan to release the code within the next 3–4 months.<br>
