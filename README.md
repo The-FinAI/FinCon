@@ -22,3 +22,20 @@ We are actively working on anonymizing and restructuring the components, and pla
 While we are preparing the open-source release of this project, please feel free to explore our Single-Agent projects, where we have open-sourced the full codebase and the majority of the dataset. It supports rapid deployment for verification and experimentation.
 
 #### InvestorBench
+🚀 **InvestorBench has been accepted by ACL 2025 main [Paper](https://aclanthology.org/2025.acl-long.126/) [Code](https://github.com/felis33/INVESTOR-BENCH) <br>**
+
+```bibtex
+@inproceedings{li-etal-2025-investorbench,
+    title = "{INVESTORBENCH}: A Benchmark for Financial Decision-Making Tasks with {LLM}-based Agent",
+    author = "Li, Haohang and Cao, Yupeng and Yu, Yangyang and Javaji, Shashidhar Reddy and Deng, Zhiyang and He, Yueru and Jiang, Yuechen and Zhu, Zining and Subbalakshmi, Koduvayur and Xiong, Guojun and others",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.126/",
+    doi = "10.18653/v1/2025.acl-long.126",
+    pages = "2509--2525",
+    ISBN = "979-8-89176-251-0"
+}
+```
