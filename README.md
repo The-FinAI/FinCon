@@ -41,3 +41,8 @@ This project introduces key design principles for LLM-based single-agent systems
     ISBN = "979-8-89176-251-0"
 }
 ```
+
+### 2. Agent Market Arena (AMA)
+
+🚀 **AMA has been accepted by WWW 2026 ([Paper](https://arxiv.org/pdf/2510.11695)) ([Code](https://github.com/The-FinAI/Agent_Market_Arena)) <br>**
+
