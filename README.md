@@ -21,7 +21,9 @@ We are actively working on anonymizing and restructuring the components, and pla
 
 While we are preparing the open-source release of this project, please feel free to explore our Single-Agent projects, where we have open-sourced the full codebase and the majority of the dataset. It supports rapid deployment for verification and experimentation.
 
-#### InvestorBench
+### 1. InvestorBench
+This project introduces key design principles for LLM-based single-agent systems tailored to trading tasks. We also systematically benchmark the performance of different LLMs across a range of trading tasks.<br>
+
 🚀 **InvestorBench has been accepted by ACL 2025 main ([Paper](https://aclanthology.org/2025.acl-long.126/)) ([Code](https://github.com/felis33/INVESTOR-BENCH)) <br>**
 
 ```bibtex
