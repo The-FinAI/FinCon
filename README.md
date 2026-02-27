@@ -22,7 +22,7 @@ We are actively working on anonymizing and restructuring the components, and pla
 While we are preparing the open-source release of this project, please feel free to explore our Single-Agent projects, where we have open-sourced the full codebase and the majority of the dataset. It supports rapid deployment for verification and experimentation.
 
 #### InvestorBench
-🚀 **InvestorBench has been accepted by ACL 2025 main [Paper](https://aclanthology.org/2025.acl-long.126/) [Code](https://github.com/felis33/INVESTOR-BENCH) <br>**
+🚀 **InvestorBench has been accepted by ACL 2025 main ([Paper](https://aclanthology.org/2025.acl-long.126/)) ([Code](https://github.com/felis33/INVESTOR-BENCH)) <br>**
 
 ```bibtex
 @inproceedings{li-etal-2025-investorbench,
