@@ -17,7 +17,7 @@ If you find FinCon useful, we would appreciate it if you consider citing our wor
 ## Code
 We apologize for the delay in open-sourcing this project.<br>
 Our data agent currently relies on several commercial APIs, which makes it challenging to release the full system and associated data directly.<br>
-We are actively working on anonymizing and restructuring the components, and plan to release the code within the next 3–4 months.<br>
+We are actively working on de-anonymizing and restructuring the components, and plan to release the code within the next 3–4 months.<br>
 
 While we are preparing the open-source release of this project, please feel free to explore our Single-Agent projects, where we have open-sourced the full codebase and the majority of the dataset. It supports rapid deployment for verification and experimentation.
 
@@ -43,6 +43,14 @@ This project introduces key design principles for LLM-based single-agent systems
 ```
 
 ### 2. Agent Market Arena (AMA)
+This is a testbed environment for testing and evaluating trading agents. The testbed provides a standardized framework for wrapping agents as HTTP endpoints and calling them for trading decisions.<br>
 
 🚀 **AMA has been accepted by WWW 2026 ([Paper](https://arxiv.org/pdf/2510.11695)) ([Code](https://github.com/The-FinAI/Agent_Market_Arena)) <br>**
-
+```bibtex
+@article{qian2025agents,
+  title={When agents trade: Live multi-market trading benchmark for llm agents},
+  author={Qian, Lingfei and Peng, Xueqing and Wang, Yan and Zhang, Vincent Jim and He, Huan and Smith, Hanley and Han, Yi and He, Yueru and Li, Haohang and Cao, Yupeng and others},
+  journal={arXiv preprint arXiv:2510.11695},
+  year={2025}
+}
+```
